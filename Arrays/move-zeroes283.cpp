@@ -1,4 +1,4 @@
-// Brute Force Approach
+// ✅ Brute Force Approach:
 
 class Solution
 {
@@ -18,7 +18,7 @@ public:
     }
 };
 
-// Optimized Approach
+// ✅ Optimal Approach
 
 class Solution
 {
