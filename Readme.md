@@ -63,12 +63,13 @@ algomaster-dsa-patterns/
 │── bitmask-dp/
 │── state-machine-dp/
 │── maths-geometry/
+│── miscellaneous-problems/                         
 │── README.md
 ```
 
 ## 🏆 Progress Tracker  
 ✅ **Total Problems:** 150  
-📌 **Completed:** `0 / 150`  
+📌 **Completed:** `4 / 150`  
 🚀 **Ongoing...**  
 
 ## 🔥 Patterns Covered  
